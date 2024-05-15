@@ -6,7 +6,7 @@ public class Driver {
 		
 		Counter counter = new Counter();
 
-		System.out.println("Mochamad Rifqi Barliant 1302210125")
+		System.out.println("Mochamad Rifqi Barliant 1302210125");
 		
 		System.out.println("Count:" + counter.getCount());
 		

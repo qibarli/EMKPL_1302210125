@@ -5,6 +5,8 @@ public class Driver {
 	public static void main(String[] args) {
 		
 		Counter counter = new Counter();
+
+		System.out.println("Mochamad Rifqi Barliant 1302210125")
 		
 		System.out.println("Count:" + counter.getCount());
 		
